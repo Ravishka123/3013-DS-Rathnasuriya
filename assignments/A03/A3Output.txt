@@ -1,0 +1,65 @@
+Ravishka Rathnasuriya 
+
+Heap 0
+========================
+Paca 1417.78
+Fox, grey 772.076
+Racer, blue 516.242
+Cat, ringtail 325.379
+Cat, european wild 308.711
+
+Heap 1
+========================
+Orca 569.245
+Orca 382.323
+Olive baboon 369.291
+Little brown dove 332.947
+Sloth, hoffman's 327.115
+
+Heap 2
+========================
+Heron, gray 508.766
+Netted rock dragon 412.893
+Horned puffin 361.577
+Gray heron 337.329
+Whale, baleen 328.755
+
+Heap 3
+========================
+Polar bear 437.398
+Rhesus monkey 427.203
+Madagascar fruit bat 376.519
+Swamp deer 340.593
+Baboon, olive 289.033
+
+Heap 4
+========================
+Dove, ring 648.45
+Golden eagle 419.575
+Pine squirrel 335.411
+Boar, wild 307.06
+Green heron 303.307
+
+Heap 5
+========================
+Puma 1738.81
+Lourie, grey 624.756
+Macaw, scarlet 604.974
+Snake, carpet 461.589
+Tiger cat 428.437
+
+Heap 6
+========================
+Deer, red 706.463
+Siskin, pine 527.8
+Capybara 463.093
+Cormorant, king 437.205
+Heron, little 413.514
+
+Heap 7
+========================
+Black bear 540.688
+Lourie, grey 489.226
+Ostrich 440.002
+Crab, red lava 355.351
+Rock dove 339.946

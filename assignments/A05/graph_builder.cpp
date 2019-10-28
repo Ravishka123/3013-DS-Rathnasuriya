@@ -80,7 +80,7 @@ struct City
 
 
 //this is the main file. 
-int main()
+int main(int argc, char*argv[])
 {
     ofstream outfile;  //opens and output file 
     outfile.open("Output.txt");
@@ -113,9 +113,9 @@ int main()
     //numOfCities to get how many cities needed to print
     double distance;
     int number = 0;
-    int numOfCities = 5;
+    int numOfCities = atoi(argv[1]);
     //user enters number of cities. 
-    cin >> numOfCities;
+   // cin >> numOfCities;
 
 //the main loop that iterates for 1000 cities
     for (int i = 0; i < 1000; i++)

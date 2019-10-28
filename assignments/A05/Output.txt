@@ -1,0 +1,122 @@
+Ravishka Rathnasuriya
+
+1: New York
+	1)  Hoboken 4.12402
+	2)  Jersey City 6.28147
+	3)  West New York 8.38224
+	4)  Bayonne 10.3708
+	5)  Kearny 13.2846
+2: Los Angeles
+	1)  Huntington Park 8.03277
+	2)  Glendale 10.0955
+	3)  Monterey Park 11.1935
+	4)  South Gate 11.2305
+	5)  Alhambra 11.7673
+3: Chicago
+	1)  Cicero 10.9016
+	2)  Oak Park 12.8343
+	3)  Berwyn 13.9149
+	4)  Evanston 19.1777
+	5)  Skokie 19.4951
+4: Houston
+	1)  Pasadena 17.3338
+	2)  Missouri City 22.6322
+	3)  Pearland 23.3445
+	4)  Sugar Land 30.0237
+	5)  Friendswood 30.4373
+5: Philadelphia
+	1)  Camden 4.88895
+	2)  Wilmington 39.8386
+	3)  Trenton 46.4398
+	4)  Vineland 53.2055
+	5)  Bethlehem 76.8915
+6: Phoenix
+	1)  Tempe 12.6978
+	2)  Glendale 14.4447
+	3)  Scottsdale 14.6445
+	4)  Peoria 21.1119
+	5)  Mesa 22.8163
+7: San Antonio
+	1)  New Braunfels 47.3054
+	2)  San Marcos 73.874
+	3)  Austin 118.471
+	4)  Cedar Park 136.631
+	5)  Pflugerville 140.863
+8: San Diego
+	1)  National City 7.14654
+	2)  Chula Vista 11.0761
+	3)  La Mesa 14.151
+	4)  El Cajon 20.5484
+	5)  Santee 22.1913
+9: Dallas
+	1)  Irving 14.7982
+	2)  Duncanville 17.3627
+	3)  Mesquite 18.534
+	4)  Grand Prairie 19.0892
+	5)  Richardson 20.098
+10: San Jose
+	1)  Santa Clara 6.34444
+	2)  Campbell 7.99466
+	3)  Milpitas 10.5345
+	4)  Cupertino 13.01
+	5)  Sunnyvale 13.6944
+991: Aventura
+	1)  Hallandale Beach 2.89842
+	2)  North Miami Beach 3.49021
+	3)  Hollywood 6.17247
+	4)  North Miami 8.78077
+	5)  Miami Gardens 10.7612
+992: Martinez
+	1)  Concord 10.1384
+	2)  Walnut Creek 13.5763
+	3)  Vallejo 14.279
+	4)  Berkeley 20.4444
+	5)  Richmond 20.9104
+993: Greenfield
+	1)  West Allis 6.16481
+	2)  New Berlin 7.97621
+	3)  Wauwatosa 9.80228
+	4)  Milwaukee 12.1988
+	5)  Brookfield 13.4151
+994: Apache Junction
+	1)  Gilbert 23.2907
+	2)  Mesa 26.1714
+	3)  Chandler 29.6796
+	4)  Scottsdale 36.0276
+	5)  Tempe 36.2642
+995: Monrovia
+	1)  Arcadia 3.11544
+	2)  Baldwin Park 7.57082
+	3)  El Monte 8.73783
+	4)  Azusa 8.76937
+	5)  Rosemead 9.6343
+996: Weslaco
+	1)  Pharr 19.6394
+	2)  Edinburg 23.3764
+	3)  McAllen 24.3672
+	4)  Harlingen 29.6232
+	5)  Mission 33.9659
+997: Keizer
+	1)  Salem 5.29869
+	2)  Albany 39.8304
+	3)  Corvallis 50.8635
+	4)  Tigard 52.9676
+	5)  Lake Oswego 55.4053
+998: Spanish Fork
+	1)  Provo 13.2271
+	2)  Orem 20.5163
+	3)  Lehi 34.9757
+	4)  Draper 48.8935
+	5)  Riverton 51.2784
+999: Beloit
+	1)  Janesville 19.4318
+	2)  Rockford 26.8753
+	3)  Crystal Lake 65.8828
+	4)  DeKalb 68.4317
+	5)  Madison 69.6737
+1000: Panama City
+	1)  Dothan 121.169
+	2)  Tallahassee 136.072
+	3)  Pensacola 152.332
+	4)  Albany 213.454
+	5)  Mobile 235.898
